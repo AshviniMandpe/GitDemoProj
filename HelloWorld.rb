@@ -6,4 +6,4 @@ class HelloWorld
    end
  
  end
-
+code completes over here....here we are to see reset function1.
